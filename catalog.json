@@ -17,7 +17,7 @@
             "en": "Red Cube"
           },
           "geometryType": "Point",
-          "icon": "box-red.jpg"
+          "icon": "box-red.jpg",
           "properties": {
             "olcs_modelUrl": "box-red.glb"
           }
@@ -28,7 +28,7 @@
             "en": "Green Cube"
           },
           "geometryType": "Point",
-          "icon": "box-green.jpg"
+          "icon": "box-green.jpg",
           "properties": {
             "olcs_modelUrl": "box-green.glb"
           }
@@ -39,7 +39,7 @@
             "en": "Blue Cube"
           },
           "geometryType": "Point",
-          "icon": "box-blue.jpg"
+          "icon": "box-blue.jpg",
           "properties": {
             "olcs_modelUrl": "box-blue.glb"
           }
@@ -58,7 +58,7 @@
             "en": "Red Cone"
           },
           "geometryType": "Point",
-          "icon": "cone-red.jpg"
+          "icon": "cone-red.jpg",
           "properties": {
             "olcs_modelUrl": "cone-red.glb"
           }
@@ -69,7 +69,7 @@
             "en": "Green Cone"
           },
           "geometryType": "Point",
-          "icon": "cone-green.jpg"
+          "icon": "cone-green.jpg",
           "properties": {
             "olcs_modelUrl": "cone-green.glb"
           }
@@ -80,7 +80,7 @@
             "en": "Blue Cone"
           },
           "geometryType": "Point",
-          "icon": "cone-blue.jpg"
+          "icon": "cone-blue.jpg",
           "properties": {
             "olcs_modelUrl": "cone-blue.glb"
           }
