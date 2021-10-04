@@ -1,0 +1,91 @@
+{
+  "title": {
+    "de": "Beispielkatalog",
+    "en": "Example Catalog"
+  },
+  "copyright": "© All models created by <a href=\"vc.systems\" target=\"_blank\">virtualcitySYSTEMS</a> using blender.",
+  "items": [
+    {
+      "title": {
+        "de": "Würfel",
+        "en": "Cube"
+      },
+      "predefinedObjects": [
+        {
+          "title": {
+            "de": "Roter Würfel",
+            "en": "Red Cube"
+          },
+          "geometryType": "Point",
+          "icon": "box-red.jpg"
+          "properties": {
+            "olcs_modelUrl": "box-red.glb"
+          }
+        },
+        {
+          "title": {
+            "de": "Grüner Würfel",
+            "en": "Green Cube"
+          },
+          "geometryType": "Point",
+          "icon": "box-green.jpg"
+          "properties": {
+            "olcs_modelUrl": "box-green.glb"
+          }
+        },
+        {
+          "title": {
+            "de": "Blauer Würfel",
+            "en": "Blue Cube"
+          },
+          "geometryType": "Point",
+          "icon": "box-blue.jpg"
+          "properties": {
+            "olcs_modelUrl": "box-blue.glb"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "de": "Kegel",
+        "en": "Cone"
+      },
+      "predefinedObjects": [
+        {
+          "title": {
+            "de": "Roter Kegel",
+            "en": "Red Cone"
+          },
+          "geometryType": "Point",
+          "icon": "cone-red.jpg"
+          "properties": {
+            "olcs_modelUrl": "cone-red.glb"
+          }
+        },
+        {
+          "title": {
+            "de": "Grüner Kegel",
+            "en": "Green Cone"
+          },
+          "geometryType": "Point",
+          "icon": "cone-green.jpg"
+          "properties": {
+            "olcs_modelUrl": "cone-green.glb"
+          }
+        },
+        {
+          "title": {
+            "de": "Blauer Kegel",
+            "en": "Blue Cone"
+          },
+          "geometryType": "Point",
+          "icon": "cone-blue.jpg"
+          "properties": {
+            "olcs_modelUrl": "cone-blue.glb"
+          }
+        }
+      ]
+    }
+  ]
+}
